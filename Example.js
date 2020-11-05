@@ -2,9 +2,9 @@ var mqtt = require("mqtt");
 
 
 // Enter Your Project Credentials Here
-const username = "siddhesh";
-const projectName = "nodejsClient";
-const pass = "nodejsClient";
+const username = "username_here";
+const projectName = "projectName_here";
+const pass = "device_credentials_here";
 
 
 // Write Your App Logic Here
